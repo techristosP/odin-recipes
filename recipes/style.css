@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: ghostwhite;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+    padding: 24px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+ul, ol {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+li {
+    padding-left: 5px;
+}
+
+.desc {
+    padding-left: 400px;
+    padding-right: 400px;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.bold {
+    font-size: 22px;
+}
